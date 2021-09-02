@@ -57,6 +57,7 @@ and thats it.
 
 <h2>Contributor</h2>
 
+[Bikram Purkait](https://github.com/IamBikramPurkait)</br>
 [Sutanu Chakraborty](https://github.com/Sutanu19)</br>
 [Ishani Samanta](https://github.com/ishanisamanta)</br>
 [Ruddranil](https://github.com/Ruddranil16)</br>   
