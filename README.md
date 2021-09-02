@@ -28,7 +28,7 @@
 <p>We learnt the concepts of tkinter, web scrapping and advanced features of Python which were required for this project.</p>
 
 <h2>What's next for Library Management System</h2>
-<p>We are hoping to extend this feature to every library or book bank and eliminate the need of maintaining manual database. We will soon add more books and advanced features for our user to keep them updated about new books available in the market.</p>
+<p>We are hoping to extend this feature to every library or book bank and eliminate the need of maintaining manual database. We will soon add more books and advanced features for our user to keep them updated about new books available in the market.We will soon incorporate Membership feature for our platform.</p>
 
 ## Install the Dependencies
 
