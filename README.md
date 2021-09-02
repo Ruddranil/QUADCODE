@@ -59,5 +59,3 @@ and thats it.
 [Ishani Samanta](https://github.com/ishanisamanta)</br>
 [Ruddranil](https://github.com/Ruddranil16)</br>   
 
-## Screenshot
-![image](screenshot/sample.jpg)
