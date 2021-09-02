@@ -9,7 +9,7 @@ window = tkinter.Tk()
 window.geometry('1000x800')
 window.title("LIBRARY MANAGEMENT")
 global file1, file2, flag1, flag2
-bg = tkinter.PhotoImage(file="screenshot/picwindow1.png")
+bg = tkinter.PhotoImage(file="images/picwindow1.png")
 canvas1 = tkinter.Canvas(window, width=1000, height=1000)
 canvas1.pack()
 canvas1.create_image(0, 10, image=bg, anchor="nw")
