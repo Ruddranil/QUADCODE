@@ -1,0 +1,22 @@
+
+___________17/09/2021___________
+
+Name :Ruddranil Patra
+Book name :TOC
+Author name :R.Patra
+D.O.B :01/10/2001
+Card number :RCC-9647
+User id :Ruddra
+Password :R@123
+________________________________
+
+___________23/09/2020___________
+
+Name :Ishani Samanta
+Book name :DAA
+Author name :I.Samanta
+D.O.B :25/10/2000
+Card number :RCC-665146
+User id :Ishani
+Password :I@123
+________________________________
