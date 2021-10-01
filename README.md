@@ -32,7 +32,7 @@
 
 ## Install the Dependencies
 
-To use this, first you need to make sure, Python 3 is installed in your system.
+To use this,  first you need to make sure, Python 3 is installed in your system.
 To install Python 3 in your system you may checkout Python's official downloads [page](https://www.python.org/downloads/).
 
 ## How to Run
