@@ -4,7 +4,7 @@
 
 <p>Keeping thousands of records of different books and different users can be cumbersome and time consuming. Manual library databases can be slow and erroneous. There is not only waste of resources for physical library cards, record registers, etc but also our most valuable asset, our time. Providing the facility for a free library management system will be the best option to avoid major errors and help us faster the process. </p>
 
-<p>So, we have come up with an idea which solves this problem by not only keeping records of the books issued and returned, but also has provisions for adding new books, removing older books and reading daily newspapers ! </p>
+<p>So, we have come up with an idea which solves this problem by not only keeping records of the books issued and returned, but also has provisions for adding new books, removing older books and reading daily newspapers! </p>
 
 <h2>What it does</h2>
 <p>It helps us keep databases of different users and books. New users can register themselves by giving their Full Name, Date of Birth [DOB], Aadhar Number, Contact Number, Username, Password and Gender. They need to keep a note of their username and password for future reference. </p>
@@ -32,7 +32,7 @@
 
 ## Install the Dependencies
 
-To use this, first you need to make sure, Python 3 is installed in your system.
+To use this,  first you need to make sure, Python 3 is installed in your system.
 To install Python 3 in your system you may checkout Python's official downloads [page](https://www.python.org/downloads/).
 
 ## How to Run
